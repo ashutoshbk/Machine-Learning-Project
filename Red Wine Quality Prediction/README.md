@@ -15,42 +15,42 @@ For this project, I used Kaggle’s Red Wine Quality dataset to build various cl
 10. Sulfates
 11. Alcohol
 
-# Objectives
+## Objectives
 The objectives of this project are as follows
 1. To experiment with different classification methods to see which yields the highest accuracy
 2. To determine which features are the most indicative of a good quality wine
 
-# Setup
+## Setup
 First, I imported all of the relevant libraries that I’ll be using as well as the data itself.
 
-# Understanding Data
+## Understanding Data
 Next, I wanted to get a better idea of what I was working with.
 There are a total of 1599 rows and 12 columns. The data looks very clean by looking at the first five rows, but I still wanted to make sure that there were no missing values.
 
-# Missing Values
+## Missing Values
 This is a very beginner-friendly dataset. I did not have to deal with any missing values, and there isn’t much flexibility to conduct some feature engineering given these variables. Next, I wanted to explore my data a little bit more.
 
-# Exploring Variables
+## Exploring Variables
 Bar plot of ‘quality’ variable
 first, Compare all 11 input variable with quality to find out which are related.
 
-# Preparing Data for Modelling
+## Preparing Data for Modelling
 Standardizing Feature Variables
 At this point, I felt that I was ready to prepare the data for modelling. The first thing that I did was standardize the data. Standardizing the data means that it will transform the data so that its distribution will have a mean of 0 and a standard deviation of 1. It’s important to standardize your data in order to equalize the range of the data.
 
-# Making binary classificaion for the response variable
+## Making binary classificaion for the response variable
 Dividing wine as good and bad by giving the limit(6.5) for the quality
 Label Encoder
 I use LabelEncoder() for converting catergorical data of quality good and bad wrt 1 and 0
 
-# Split data
+## Split data
 Next I split the data into a training and test set so that I could cross-validate my models and determine their effectiveness.
 
-# Modelling
+## Modelling
 For this project, I wanted to compare three different machine learning models: Random Forest Classifier, Stochastic Gradient Descent Classifier and  Support Vector Classifier(SVC). For the purpose of this project, I wanted to compare these models by their accuracy using pipeline
 
-# Result 
+## Result 
 Random Forest Classifier gives high accuracy compare to others
 
-# Conclusion
+## Conclusion
 By looking into the details, we can see that good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average.
