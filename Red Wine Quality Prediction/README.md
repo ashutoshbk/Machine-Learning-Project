@@ -50,7 +50,7 @@ Next I split the data into a training and test set so that I could cross-validat
 For this project, I wanted to compare three different machine learning models: Random Forest Classifier, Stochastic Gradient Descent Classifier and  Support Vector Classifier(SVC). For the purpose of this project, I wanted to compare these models by their accuracy using pipeline
 
 ## Result 
-Random Forest Classifier gives high accuracy compare to others
+Random Forest Classifier gives high accuracy that is 90%.
 
 ## Conclusion
 By looking into the details, we can see that good quality wines have higher levels of alcohol on average, have a lower volatile acidity on average, higher levels of sulphates on average, and higher levels of residual sugar on average.
