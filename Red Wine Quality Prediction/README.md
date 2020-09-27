@@ -36,7 +36,7 @@ first, Compare all 11 input variable with quality to find out which are related.
 
 ## Preparing Data for Modelling
 Standardizing Feature Variables
-At this point, I felt that I was ready to prepare the data for modelling. The first thing that I did was standardize the data. Standardizing the data means that it will transform the data so that its distribution will have a mean of 0 and a standard deviation of 1. It’s important to standardize your data in order to equalize the range of the data.
+At this point, I felt that I was ready to prepare the data for modelling. The first thing that I did was standardize the data using pipeline. Standardizing the data means that it will transform the data so that its distribution will have a mean of 0 and a standard deviation of 1. It’s important to standardize your data in order to equalize the range of the data.
 
 ## Making binary classificaion for the response variable
 Dividing wine as good and bad by giving the limit(6.5) for the quality
