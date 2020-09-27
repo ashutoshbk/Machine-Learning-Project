@@ -39,8 +39,8 @@ Standardizing Feature Variables
 At this point, I felt that I was ready to prepare the data for modelling. The first thing that I did was standardize the data using pipeline. Standardizing the data means that it will transform the data so that its distribution will have a mean of 0 and a standard deviation of 1. It’s important to standardize your data in order to equalize the range of the data.
 
 ## Making binary classificaion for the response variable
-Dividing wine as good and bad by giving the limit(6.5) for the quality
-Label Encoder
+Dividing wine as good and bad by giving the limit(6.5) for the quality columns.
+##Label Encoder
 I use LabelEncoder() for converting catergorical data of quality good and bad wrt 1 and 0
 
 ## Split data
