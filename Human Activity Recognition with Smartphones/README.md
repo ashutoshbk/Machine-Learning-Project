@@ -1,4 +1,3 @@
-add links in necessory positions and visualization details
 # Human Activity Recognition with Smartphones
 
 ## Introduction
@@ -23,8 +22,8 @@ Mainly there are 'acceleration' and 'gyroscope' features. A few 'gravity' featur
 This is a very accurate dataset. I did not have to deal with any missing values, and there isn’t much flexibility to conduct some feature engineering given these variables. Next, I wanted to explore my data a little bit more.
 
 ### Let's See How Are The Labels Distributed?
+With the Bar chart you can how labels are distribute.
 
-add visualizing note
 
 ## Activity Exploration
 ### Are The Activities Separable?
