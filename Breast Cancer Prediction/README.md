@@ -1,7 +1,5 @@
 # Breast Cancer Prediction
 
-## AI FOR SOCIAL GOOD: WOMEN CODERS' BOOTCAMP
-
 ### Steps in any Machine Learning classification problem
 - Exploring the dataset
 - Preprocessing the dataset and feature selection
