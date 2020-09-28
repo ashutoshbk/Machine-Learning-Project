@@ -31,8 +31,10 @@ Here, I first scale the data with StandardScaler() then reduce the dimension wit
 
 I got,
 	1. In plot 1 you can clearly see the activities are mostly separable.
+	
 	2. Plot 2 reveals personal information of the participants. Everybody has for example an unique/sparable walking style (on the upper right). Therefore the smartphone should be able to detect what you are doing and also who is using the smartphone (if you are moving around with it).
 
+	2. Plot 2 reveals personal information of the participants. Everybody has for example an unique/sparable walking style (on the upper right). Therefore the smartphone should be able to detect what you are doing and also who is using the smartphone (if you are moving around with it).
 ### How Good Are The Activities Separable?
 Without much preprocessing and parameter tuning a simple LGBMClassifier should work decently.
 
