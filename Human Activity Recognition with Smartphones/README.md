@@ -3,7 +3,7 @@ add links in necessory positions and visualization details
 
 ## Introduction
 
-The dataset used for this paper is from the UCI Machine Learning Repository titled “Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set” (SBHAR). The data was collected from experiments with a group of 30 volunteers aged between 19 to 48 years wearing a Samsung Galaxy SII on the waist. Volunteers performed a protocol of activities including six basic postures: three static — standing, sitting, lying and three dynamic — walking, walking downstairs and walking upstairs. 
+The dataset used for this paper is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) titled “Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set” (SBHAR). The data was collected from experiments with a group of 30 volunteers aged between 19 to 48 years wearing a Samsung Galaxy SII on the waist. Volunteers performed a protocol of activities including six basic postures: three static — standing, sitting, lying and three dynamic — walking, walking downstairs and walking upstairs. 
 
 
 ## Setup
