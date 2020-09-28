@@ -31,7 +31,6 @@ Here, I first scale the data with StandardScaler() then reduce the dimension wit
 
 I got,
 	In plot 1 you can clearly see the activities are mostly separable.
-	
 	Plot 2 reveals personal information of the participants. Everybody has for example an unique/sparable walking style (on the upper right). Therefore the smartphone should be able to detect what you are doing and also who is using the smartphone (if you are moving around with it).
 
 ### How Good Are The Activities Separable?
